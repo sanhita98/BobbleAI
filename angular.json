@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BobbleAI"
+    }
+  },
+  "defaultProject": "BobbleAI",
+  "cli": {
+    "analytics": "9471abc0-d290-4198-b349-f7db91c1c8e0"
+  }
 }
